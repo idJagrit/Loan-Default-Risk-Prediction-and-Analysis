@@ -22,7 +22,7 @@ The dataset used in this project is `loan_payments.csv`, which contains informat
 
 ---
 
-## Exploratory Data Analysis (EDA)
+## EDA (Exploratory Data Analysis)
 
 The EDA process involved several key steps to prepare the data for analysis:
 
